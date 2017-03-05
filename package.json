@@ -1,0 +1,7 @@
+{
+    "description": "Simple API for CIAA",
+    "name": "framework-ciaafirmwarev2",
+    "system": "all",
+    "url": "https://github.com/ciaa/firmware_v2",
+    "version": "0.10000.0"
+}
